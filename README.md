@@ -58,7 +58,7 @@ Shows top impactful players worth keeping in future seasons.
 
 ** Retention Feature Engineering (Batters)**
 
-To simulate realistic IPL retention decisions, a new column Retain or Not was engineered based on:
+To simulate realistic IPL retention decisions, a new column Retain or Not is made based on:
 
 Batting Average (AVG) – consistency
 
